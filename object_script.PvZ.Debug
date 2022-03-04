@@ -1,0 +1,14 @@
+debug/GameState.o
+debug/Images_des.o
+debug/OtherObjects.o
+debug/Plants.o
+debug/Zombies.o
+debug/fightendwindow.o
+debug/game.o
+debug/main.o
+debug/pausewindow.o
+debug/pvzproj.o
+debug/moc_fightendwindow.o
+debug/moc_game.o
+debug/moc_pausewindow.o
+debug/moc_pvzproj.o

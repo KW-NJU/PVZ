@@ -1,0 +1,14 @@
+release/GameState.o
+release/Images_des.o
+release/OtherObjects.o
+release/Plants.o
+release/Zombies.o
+release/fightendwindow.o
+release/game.o
+release/main.o
+release/pausewindow.o
+release/pvzproj.o
+release/moc_fightendwindow.o
+release/moc_game.o
+release/moc_pausewindow.o
+release/moc_pvzproj.o
